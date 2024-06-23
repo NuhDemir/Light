@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NuhDemir/Light/main/img/light.png" height="360px" width="540px">
+<img src="https://raw.githubusercontent.com/NuhDemir/Light/main/img/light.png" height="420px" width="540px">
 
 Absolutely! Here's a breakdown of the code you provided for creating a light switch with sound effects:
 
